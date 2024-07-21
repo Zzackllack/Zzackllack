@@ -1,6 +1,4 @@
-# Hi there, I'm Cédric 👋
-
-Welcome to my GitHub profile! I'm a high school student in Berlin, Germany, currently in the 10th grade. Here, you'll find projects and code that reflect my diverse interests and hobbies.
+![Header](./github-header-image.png)
 
 ## About Me
 
@@ -11,17 +9,6 @@ Welcome to my GitHub profile! I'm a high school student in Berlin, Germany, curr
   - Playing Piano: 🎹 Music is a big part of my life.
   - Sports: 🥋 I trained Judo for 6 years and enjoy staying active.
   - Technology & Electronics: 🔌 I'm passionate about anything involving tech or electrical stuff.
-
-## What I Do
-
-I'm currently focusing on expanding my knowledge and skills in various areas, including:
-
-- **Programming:** I'm always exploring new programming languages and tools. Right now, I'm particularly interested in Java, Python and Tailwind CSS.
-- **Projects:** Check out my repositories to see some of my recent work. I'm working on a Python project called **Website-scanner**, a tool designed to scan a webpage for various types of media files, including images, videos, audios, and links to external video hosting sites. The tool downloads the found media files to a specified directory and logs the results for easy reference.
-
-- **Learning:** In my computer science class, I've learned the basics of Java. I'm continually learning and growing, and I'm open to new challenges and opportunities that come my way.
-- **Flipper Zero:** I also own a Flipper Zero and enjoy writing scripts for it. If you don't know, the Flipper Zero is a versatile multi-tool for hackers and hardware enthusiasts.
-- **NAS & Server:** I manage a NAS and a server, which has deepened my interest in network storage and server management.
 
 ## Tools & Technologies
 
@@ -40,6 +27,17 @@ Here are some of the tools and technologies I work with:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
 ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
+
+## What I Do
+
+I'm currently focusing on expanding my knowledge and skills in various areas, including:
+
+- **Programming:** I'm always exploring new programming languages and tools. Right now, I'm particularly interested in Java, Python and Tailwind CSS.
+- **Projects:** Check out my repositories to see some of my recent work. I'm working on a Python project called **Website-scanner**, a tool designed to scan a webpage for various types of media files, including images, videos, audios, and links to external video hosting sites. The tool downloads the found media files to a specified directory and logs the results for easy reference.
+
+- **Learning:** In my computer science class, I've learned the basics of Java. I'm continually learning and growing, and I'm open to new challenges and opportunities that come my way.
+- **Flipper Zero:** I also own a Flipper Zero and enjoy writing scripts for it. If you don't know, the Flipper Zero is a versatile multi-tool for hackers and hardware enthusiasts.
+- **NAS & Server:** I manage a NAS and a server, which has deepened my interest in network storage and server management.
 
 ## Interests
 
