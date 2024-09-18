@@ -3,7 +3,7 @@
 ## About Me
 
 - **Location:** Berlin, Germany (Lichterfelde)
-- **Education:** 10th Grade
+- **Education:** 11th Grade
 - **Hobbies:**
   - Coding: I love experimenting with new technologies and building cool projects.
   - Playing Piano: 🎹 Music is a big part of my life.
@@ -51,7 +51,15 @@ I'm currently especially interested in:
 
 ## Get in Touch
 
-Feel free to reach out if you want to collaborate on a project, discuss tech, or just say hi!
+Feel free to reach out!
+
+📧 **Email:**  
+- [mail@zacklack.de](mailto:mail@zacklack.de)  
+- [contact@zacklack.de](mailto:contact@zacklack.de)  
+- [admin@zacklack.de](mailto:admin@zacklack.de)  
+- [info@zacklack.de](mailto:info@zacklack.de)
+
+🌐 **Website:** [zacklack.de](https://zacklack.de)
 
 Thanks for visiting my profile!
 
