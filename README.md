@@ -51,7 +51,7 @@ I'm currently especially interested in:
 
 ## Get in Touch
 
-Feel free to reach out!
+Feel free to reach out if you want to collaborate on a project, discuss tech, or just say hi!
 
 📧 **Email:**  
 - [mail@zacklack.de](mailto:mail@zacklack.de)  
@@ -59,7 +59,7 @@ Feel free to reach out!
 - [admin@zacklack.de](mailto:admin@zacklack.de)  
 - [info@zacklack.de](mailto:info@zacklack.de)
 
-🌐 **Website:** [zacklack.de](https://zacklack.de)
+🌐 **Website:** [Visit my website](https://zacklack.de)
 
 Thanks for visiting my profile!
 
