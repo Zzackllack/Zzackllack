@@ -3,7 +3,7 @@
 ## About Me
 
 - **Location:** Berlin, Germany (Lichterfelde)
-- **Education:** 11th Grade
+- **Education:** Q1 (11th Grade)
 - **Hobbies:**
   - Coding: I love experimenting with new technologies and building cool projects.
   - Playing Piano: 🎹 Music is a big part of my life.
