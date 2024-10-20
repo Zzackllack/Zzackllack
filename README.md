@@ -38,13 +38,13 @@ I'm currently focusing on expanding my knowledge and skills in various areas, in
 
 - **Learning:** In my computer science class, I've learned the basics of Java. I'm continually learning and growing, and I'm open to new challenges and opportunities that come my way.
 - **Flipper Zero:** I also own a Flipper Zero and enjoy writing scripts for it. If you don't know, the Flipper Zero is a versatile multi-tool for hackers and hardware enthusiasts.
-- **NAS & Server:** I manage a NAS and a server, which has deepened my interest in network storage and server management.
+- **NAS & Server:** I manage a Synology NAS and a server, which has deepened my interest in network storage and server management.
 
 ## Interests
 
 I'm currently especially interested in:
 
-- **Linux Distributions:** Exploring and using Arch Linux and Kali Linux.
+- **Linux Distributions:** Exploring Arch Linux and Kali Linux.
 - **Virtual Machines:** Setting up and managing virtual environments for various projects.
 - **Flipper Zero:** Developing scripts and exploring the capabilities of the Flipper Zero device.
 - **NAS & Server:** Managing a NAS and a server, and diving deeper into network storage and server management.
