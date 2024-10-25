@@ -19,22 +19,46 @@
 <h2>Tools & Technologies</h2>
 <p>Here are some of the tools and technologies that I use/have used:</p>
 
-<p>
-  <img src="https://img.shields.io/badge/amazon%20alexa-52b5f7?style=for-the-badge&logo=amazon%20alexa&logoColor=white">
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white">
-  <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white">
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
-  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-  <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge">
-  <img src="https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white">
+<p align="center">
+  <!-- Operating Systems -->
+  <strong>Operating Systems:</strong><br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=arch,linux,mint,windows" />
+  </a>
 </p>
+
+<p align="center">
+  <!-- Programming Languages -->
+  <strong>Programming Languages:</strong><br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,java,nodejs,py" />
+  </a>
+</p>
+
+<p align="center">
+  <!-- Development Tools -->
+  <strong>Development Tools:</strong><br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,webstorm,idea,pycharm,npm,vite" />
+  </a>
+</p>
+
+<p align="center">
+  <!-- Frameworks & Libraries -->
+  <strong>Frameworks & Libraries:</strong><br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,tailwind,threejs" />
+  </a>
+</p>
+
+<p align="center">
+  <!-- Cloud & Utilities -->
+  <strong>Cloud & Utilities:</strong><br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cloudflare,notion,discord" />
+  </a>
+</p>
+
 
 <h2>What I Do</h2>
 <p>I'm currently focusing on expanding my knowledge and skills in various areas, including:</p>
