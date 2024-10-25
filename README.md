@@ -2,7 +2,7 @@
   <img src="./github-header-image.png" style="display: block; margin: 0 auto;">
 </div>
 
-<h2>About Me</h2>
+<div align="center"><h2>About Me</h2></div>
 <ul>
   <li><strong>Location:</strong> Berlin, Germany (Lichterfelde)</li>
   <li><strong>Education:</strong> Q1 (11th Grade)</li>
@@ -16,7 +16,7 @@
   </li>
 </ul>
 
-<h2>Tools & Technologies</h2>
+<div align="center"><h2>Tools & Technologies</h2></div>
 <p>Here are some of the tools and technologies that I use/have used:</p>
 
 <p align="center">
@@ -60,7 +60,7 @@
 </p>
 
 
-<h2>What I Do</h2>
+<div align="center"><h2>What I Do</h2></div>
 <p>I'm currently focusing on expanding my knowledge and skills in various areas, including:</p>
 <ul>
   <li><strong>Programming:</strong> I'm always exploring new programming languages and tools. Right now, I'm particularly interested in Java, Python, and Tailwind CSS.</li>
@@ -70,7 +70,7 @@
   <li><strong>NAS & Server:</strong> I manage a Synology NAS and a server, which has deepened my interest in network storage and server management.</li>
 </ul>
 
-<h2>Interests</h2>
+<div align="center"><h2>Interests</h2></div>
 <p>I'm currently especially interested in:</p>
 <ul>
   <li><strong>Linux Distributions:</strong> Exploring Arch Linux and Kali Linux.</li>
@@ -89,7 +89,7 @@
   </picture>
 </div>
 
-<h2>Get in Touch</h2>
+<div align="center"><h2>Get in Touch</h2></div>
 <p>Feel free to reach out if you want to collaborate on a project, discuss tech, or just say hi!</p>
 
 <p>📧 <strong>Email:</strong></p>
