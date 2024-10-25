@@ -79,6 +79,16 @@
   <li><strong>NAS & Server:</strong> Managing a NAS and a server, and diving deeper into network storage and server management.</li>
 </ul>
 
+
+<div align="center"> 
+  <h2>🐍 My Contributions 🐍</h2>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Zzackllack/Zzackllack/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Zzackllack/Zzackllack/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/Zzackllack/Zzackllack/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
 <h2>Get in Touch</h2>
 <p>Feel free to reach out if you want to collaborate on a project, discuss tech, or just say hi!</p>
 
