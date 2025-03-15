@@ -5,7 +5,7 @@
 <div align="center"><h2>About Me</h2></div>
 <ul>
   <li><strong>Location:</strong> Berlin, Germany (Lichterfelde)</li>
-  <li><strong>Education:</strong> Q1 (11th Grade)</li>
+  <li><strong>Education:</strong> Q2 (11th Grade)</li>
   <li><strong>Hobbies:</strong>
     <ul>
       <li>Coding: I love experimenting with new technologies and building cool projects.</li>
