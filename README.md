@@ -94,10 +94,7 @@
 
 <p>📧 <strong>Email:</strong></p>
 <ul>
-  <li><a href="mailto:mail@zacklack.de">mail@zacklack.de</a></li>
   <li><a href="mailto:contact@zacklack.de">contact@zacklack.de</a></li>
-  <li><a href="mailto:admin@zacklack.de">admin@zacklack.de</a></li>
-  <li><a href="mailto:info@zacklack.de">info@zacklack.de</a></li>
 </ul>
 
 <p>🌐 <strong>Website:</strong> <a href="https://zacklack.de">Visit my website</a></p>
