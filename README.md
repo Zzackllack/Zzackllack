@@ -4,14 +4,13 @@
 
 <div align="center"><h2>About Me</h2></div>
 <ul>
-  <li><strong>Location:</strong> Berlin, Germany (Lichterfelde)</li>
-  <li><strong>Education:</strong> Q2 (11th Grade)</li>
+  <li><strong>Location:</strong> Berlin, Germany </li>
+  <li><strong>Education:</strong> Q2 </li>
   <li><strong>Hobbies:</strong>
     <ul>
       <li>Coding: I love experimenting with new technologies and building cool projects.</li>
       <li>Playing Piano: 🎹 Music is a big part of my life.</li>
       <li>Sports: 🥋 I trained Judo for 6 years and enjoy staying active.</li>
-      <li>Technology & Electronics: 🔌 I'm passionate about anything involving tech or electrical stuff.</li>
     </ul>
   </li>
 </ul>
@@ -59,24 +58,23 @@
   </a>
 </p>
 
-
-<div align="center"><h2>What I Do</h2></div>
+<div align="center"><h2>🛠 What I'm Working On</h2></div>
 <p>I'm currently focusing on expanding my knowledge and skills in various areas, including:</p>
 <ul>
-  <li><strong>Programming:</strong> I'm always exploring new programming languages and tools. Right now, I'm particularly interested in Java, Python, and Tailwind CSS.</li>
-  <li><strong>Projects:</strong> Check out my repositories to see some of my recent work. I'm working on a Python project called <strong>Website-scanner</strong>, a tool designed to scan a webpage for various types of media files, including images, videos, audios, and links to external video hosting sites. The tool downloads the found media files to a specified directory and logs the results for easy reference.</li>
-  <li><strong>Learning:</strong> In my computer science class, I've learned the basics of Java. I'm continually learning and growing, and I'm open to new challenges and opportunities that come my way.</li>
-  <li><strong>Flipper Zero:</strong> I also own a Flipper Zero and enjoy writing scripts for it. If you don't know, the Flipper Zero is a versatile multi-tool for hackers and hardware enthusiasts.</li>
-  <li><strong>NAS & Server:</strong> I manage a Synology NAS and a server, which has deepened my interest in network storage and server management.</li>
+  <li>Improving my Java skills in my CS class.</li>
+  <li>Building Python tools, like different Discord Bots</li>
+  <li>Exploring TypeScript, React, Astro for web projects.</li>
+  <li>Running a Synology NAS and a home server for learning and tinkering.</li>
+  <li>Occasionally scripting for the Flipper Zero.</li>
 </ul>
 
-<div align="center"><h2>Interests</h2></div>
+<div align="center"><h2>🌱 Currently Interested In</h2></div>
 <p>I'm currently especially interested in:</p>
 <ul>
-  <li><strong>Linux Distributions:</strong> Exploring Arch Linux and Kali Linux.</li>
-  <li><strong>Virtual Machines:</strong> Setting up and managing virtual environments for various projects.</li>
-  <li><strong>Flipper Zero:</strong> Developing scripts and exploring the capabilities of the Flipper Zero device.</li>
-  <li><strong>NAS & Server:</strong> Managing a NAS and a server, and diving deeper into network storage and server management.</li>
+  <li>Linux customization</li>
+  <li>Servers & networking (incl. NAS setups)</li>
+  <li>Virtualization and VMs</li>
+  <li>Creative full-stack projects using modern tech</li>
 </ul>
 
 
@@ -97,10 +95,4 @@
   <li><a href="mailto:contact@zacklack.de">contact@zacklack.de</a></li>
 </ul>
 
-<p>🌐 <strong>Website:</strong> <a href="https://zacklack.de">Visit my website</a></p>
-
 <p>Thanks for visiting my profile!</p>
-
-<p><a href="https://github.com/Zzackllack">
-  <img src="https://img.shields.io/github/followers/Zzackllack?style=social" alt="GitHub followers">
-</a></p>
