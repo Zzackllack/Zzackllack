@@ -5,7 +5,7 @@
 <div align="center"><h2>About Me</h2></div>
 <ul>
   <li><strong>Location:</strong> Berlin, Germany </li>
-  <li><strong>Education:</strong> Q2 </li>
+  <li><strong>Education:</strong> Q3 </li>
   <li><strong>Hobbies:</strong>
     <ul>
       <li>Coding: I love experimenting with new technologies and building cool projects.</li>
@@ -96,3 +96,6 @@
 </ul>
 
 <p>Thanks for visiting my profile!</p>
+
+<img src="https://umami-analytics.zacklack.de/p/8RTJzkD8v" alt="" width="100" height="1" style="display:none;">
+
