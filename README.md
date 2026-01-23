@@ -5,7 +5,7 @@
 <div align="center"><h2>About Me</h2></div>
 <ul>
   <li><strong>Location:</strong> Berlin, Germany </li>
-  <li><strong>Education:</strong> Q3 </li>
+  <li><strong>Education:</strong> Q4 </li>
   <li><strong>Hobbies:</strong>
     <ul>
       <li>Coding: I love experimenting with new technologies and building cool projects.</li>
