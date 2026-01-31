@@ -95,7 +95,12 @@
   <li><a href="mailto:contact@zacklack.de">contact@zacklack.de</a></li>
 </ul>
 
-<p>Thanks for visiting my profile!</p>
-
-<img src="https://umami-analytics.zacklack.de/p/8RTJzkD8v" alt="" width="100" height="1" style="display:none;">
+<div align="center">
+  <div><sub>Thanks for visiting ✨</sub></div>
+  <div>&nbsp;</div>
+  <img
+    src="https://count.getloli.com/@:Zzackllack?name=views&theme=3d-num&padding=7&offset=0&align=center&scale=1&pixelated=1&darkmode=auto"
+    alt="Profile views"
+  />
+</div>
 
